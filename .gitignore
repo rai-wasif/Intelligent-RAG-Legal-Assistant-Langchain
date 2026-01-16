@@ -1,0 +1,20 @@
+# --- Security (CRITICAL) ---
+# Never upload your API keys or secrets to GitHub
+.streamlit/secrets.toml
+.env
+
+# --- Python Environment ---
+# Your virtual environment folder is huge and should be recreated on other PCs
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# --- RAG Specifics (Optional) ---
+# If you want others to build their own vector database, ignore yours
+# vectorstore/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
