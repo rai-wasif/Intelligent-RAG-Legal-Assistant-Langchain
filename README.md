@@ -15,9 +15,9 @@ Check out the system in action. These screenshots demonstrate the UI/UX and the 
 
 | 🏛️ 1. Main Chat Interface | 🔍 2. Article Retrieval Logic |
 | :---: | :---: |
-| ![Main UI](./screenshots/result1.png) | ![Retrieval](./screenshots/result2.png) |
+| !(./screenshots/result1.png) | !(./screenshots/result2.png) |
 | **🛡️ 3. Hallucination-Free Answers** | **📊 4. Interactive Chat History** |
-| ![Citations](./screenshots/result3.png) | ![History](./screenshots/result4.png) |
+| !(./screenshots/result3.png) | !(./screenshots/result4.png) |
 
 ---
 
