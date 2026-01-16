@@ -80,7 +80,7 @@ The application follows a dual-phase architecture:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Constitutional-AI.git](https://github.com/YOUR_USERNAME/Constitutional-AI.git)
+    git clone [https://github.com...)
     ```
 2.  **Install dependencies:**
     ```bash
